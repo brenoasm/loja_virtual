@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081979387357",
+    "firebase_url": "https://lojavirtual-c2596.firebaseio.com",
+    "project_id": "lojavirtual-c2596",
+    "storage_bucket": "lojavirtual-c2596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081979387357:android:cde84603f1f82875",
+        "android_client_info": {
+          "package_name": "com.moreno.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081979387357-pvd6jq59cfbbqt654jm6dvjg0ao2r86a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5irRXK_18sMu-Hq0TS8jGKANDsZdxnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081979387357-pvd6jq59cfbbqt654jm6dvjg0ao2r86a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
